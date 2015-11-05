@@ -3,6 +3,11 @@ type
 
 
 @short:defines type of suggest control
+
+@values:
+- list		renders list in a popup body, used by most select controls
+- calendar		renders calendar, used by datepicker
+- colorboard	renders colorboard, used by colorpicker 
 	
 
 @type: string
@@ -11,5 +16,6 @@ type
 
 @template:	api_config
 @descr:
-The only possible type for now is **"list"**. It is set by default and you don't need to specify it. 
+
+If suggest is initialized separately, **list** type is used by default. 
 

@@ -122,6 +122,7 @@ The component allows tracking the whole progress of individual file upload. Full
 - api/link/ui.uploader_hotkey_config.md - sets a hotkey that triggers button clicking
 - api/link/ui.uploader_id_config.md - the component ID
 - api/link/ui.uploader_inputheight_config.md - the height of the input area, or a button's text value area.
+- api/ui.uploader_inputname_config.md - 
 - api/link/ui.uploader_inputwidth_config.md - the width of the input area, or a button's text value area.
 - api/link/ui.uploader_label_config.md - the text label of the control
 - api/ui.uploader_link_config.md - sets the component to display values of the files chosen for upload;
