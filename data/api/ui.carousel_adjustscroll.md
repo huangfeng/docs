@@ -5,7 +5,7 @@ adjustScroll
 	
 
 @params: 
-- matrix  		screen
+- matrix     CSSMatrix		the animation matrix
 
 
 @example:

@@ -7,7 +7,7 @@ attachEvent
 @params:
 - type		string			the event name, case-insensitive
 - functor	function		the function object or name
-* id		string/number		the event id
+* id		id		the event id
 
 @callback:
 - ...mixed...		function	the callback receives different set of parameters for different events. Check the documentation of the related events.

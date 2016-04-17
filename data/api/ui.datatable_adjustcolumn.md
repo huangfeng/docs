@@ -6,7 +6,7 @@ adjustColumn
 	
 
 @params:
-- id	string, number		columnID
+- id	id		columnID
 * header	string 	adjustment mode ("header", "data", "all");
 	
 

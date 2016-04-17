@@ -5,7 +5,7 @@ dataFeed
 @short:
 	the URL that the component will use to reload data during binding
 
-@type: string, function
+@type: string,function
 @example:
 var myform = new webix.ui({
   container: "box",

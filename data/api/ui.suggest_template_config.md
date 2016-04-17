@@ -5,7 +5,7 @@ template
 @short: template which will be used to fill parent input from selected record
 	
 
-@type: template
+@type: string,function
 @example:
 
 webix.ui({

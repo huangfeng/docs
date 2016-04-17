@@ -6,7 +6,7 @@ showColumnBatch
 	
 
 @params:
-- batch      string, number      batch name
+- batch      id      batch name
 - preserve 	boolean		hides batch; controls behaviour of other batches
 
 @example:

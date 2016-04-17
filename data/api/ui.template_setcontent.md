@@ -6,7 +6,7 @@ setContent
 	
 
 @params:
-- node      any          HTML node, or ID of html element that need to be attached
+- node      string,HTMLElement          HTML node, or ID of html element that need to be attached
 
 
 @example:

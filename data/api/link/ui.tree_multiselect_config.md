@@ -1,6 +1,6 @@
 @link: api/selectionmodel_multiselect_config.md
 
-@type: boolean, string
+@type: boolean,string
 
 @descr:
 

@@ -3,7 +3,7 @@ options
 
 @short: defines options for a select control
 	
-@type: array, string
+@type: string,array
 @example:
 //simple array
 { view:"select", label:"Version", options:["1.0", "1.5", "2.0"]}

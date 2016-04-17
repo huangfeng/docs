@@ -7,7 +7,7 @@ position
 - center	places the window in the center of the viewport
 - top	forces the window to appear from the top of the page with slide animation and horizontal centering
 
-@type: string, function
+@type: string,function
 
 @example:
 

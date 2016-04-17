@@ -5,7 +5,7 @@ templateItem
 @short:
 	an html template that defines data that will be presented in grouplist
 
-@type: string, function
+@type: string,function
 @example:
 webix.ui({ 
     view:"grouplist", 

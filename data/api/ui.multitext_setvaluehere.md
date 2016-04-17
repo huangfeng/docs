@@ -4,7 +4,7 @@ setValueHere
 @short: sets value for the basic field of a multitext control
 	
 @params:
-- value		string, number		value for the field
+- value		string		value for the field
 
 
 @example:

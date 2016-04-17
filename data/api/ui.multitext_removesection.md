@@ -5,7 +5,7 @@ removeSection
 	
 
 @params:
-* id	string, number		id of the field to remove
+* id	id		id of the field to remove
 
 @example:
 

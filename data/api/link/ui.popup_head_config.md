@@ -3,7 +3,7 @@
 @short:
 	sets  the view header
 
-@type: object, string
+@type: string,object
 @related: 
 @relatedsample:
 @relatedapi:

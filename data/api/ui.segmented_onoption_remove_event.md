@@ -4,7 +4,7 @@ onOptionRemove
 @short:fires after the option (tab, segment) has been removed
 
 @params:
-- id		string, number		option ID
+- id		id		option ID
 - value		string		option value
 
 @example:

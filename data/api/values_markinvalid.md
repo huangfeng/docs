@@ -7,7 +7,7 @@ markInvalid
 @params:
 
 - name		string		value of "name" parameter of the desired input	
-* state		boolean, string		removes invalid mark; sets invalidMessage 
+* state		boolean,string		removes invalid mark; sets invalidMessage 
 
 
 @example:

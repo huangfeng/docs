@@ -7,7 +7,7 @@ remove
 	removes an element from the array
 
 @params:
-- value		any		the element value
+- value		mixed		the element value
 
 
 

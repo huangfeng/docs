@@ -8,7 +8,7 @@ push
 @params:
 - view	string	id of related view 
 - url	string	in-page url for new state
-- value	any		any related data	
+- value		mixed		any related data	
 
 @example:
 

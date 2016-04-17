@@ -7,9 +7,9 @@ selectRange
 
 @params:
 
-- row_id  	id    the id of the first selected row in the selection range
-- end_row_id  	id    the id of the last selected row in the selection range
-* preserve		boolean	  preserves the previously made selection (true by default)
+- row_id			id    the id of the first selected row in the selection range
+- end_row_id		id    the id of the last selected row in the selection range
+* preserve			boolean	  preserves the previously made selection (true by default)
 
 
 @example:

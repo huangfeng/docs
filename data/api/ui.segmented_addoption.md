@@ -7,7 +7,7 @@ addOption
 
 @params:
 - id		id			ID of the new option
-- value		any			value of the new option
+- value		string		value of the new option
 * show 		boolean		makes the newly added option active. 'false' by default
 * index		number		position to insert to. Last, by default
 

@@ -6,7 +6,7 @@ onAfterCollapse
 
 @params:
 
-- id	string, number	ID of an item that has just been collapsed
+- id	id	ID of an item that has just been collapsed
 @example: 
 	
 some.attachEvent("onAfterCollapse", function(id){

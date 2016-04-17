@@ -4,9 +4,7 @@ icons
 @short:
 	sets an array of icons in the calendar or hides them
 
-@type: 
-
-boolean, object
+@type: boolean,object
 
 @example:
 

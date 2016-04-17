@@ -5,7 +5,7 @@ getSubMenu
 @short: gets the submenu object of a menu item (if any)
 
 @params:
-- id	string, number	menu item ID
+- id	id	menu item ID
 
 @returns:
 - submenu	object	object of a child menu (submenu), if any

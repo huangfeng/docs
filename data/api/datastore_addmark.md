@@ -8,10 +8,10 @@ addMark
 - id	string	the id of a data item to mark
 - name	string	the flag name 
 * css	boolean	if set to <i>true</i> than the css style with the name equal <br> to the <b>name</b>  parameter value will be applied to the marked item
-* value	any	the value of the flag
+* value		mixed	the value of the flag
 
 @returns:
-- value  any 	the flag value
+- value  	mixed 	the value of the flag
 	
 
 @example:

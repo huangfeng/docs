@@ -5,7 +5,7 @@ type
 @short:
 	object that specifies items presentation
 
-@type: object, string
+@type: string,object
 @example:
 list = webix.ui({
 	view:"list",

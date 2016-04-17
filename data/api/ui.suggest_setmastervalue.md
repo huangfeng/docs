@@ -5,7 +5,7 @@ setMasterValue
 	
 
 @params:
-- value		any		new value of master control
+- value		string		new value of master control
 	
 
 @example:

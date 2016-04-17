@@ -5,7 +5,7 @@ removeCss
 	
 
 @params:
-- id	string,number	ID of the necessary item
+- id	id	ID of the necessary item
 - css		string		CSS class name
 * silent	boolean 	if true, the component is not redrawn
 

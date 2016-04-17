@@ -3,7 +3,7 @@ $drop
 
 @short:
 	called when mouse was released over drop area and defines dropping behavior
-
+@type:function
 @params:
 - s		object		source html object
 - t		object		target html object

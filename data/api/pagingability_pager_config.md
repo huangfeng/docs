@@ -5,7 +5,7 @@ pager
 @short: 	defines paging configuration ( creates a 'ui.pager' object)
 	
 
-@type: string, object
+@type: string,object
 @example:
 
 webix.ui({

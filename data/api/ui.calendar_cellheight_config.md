@@ -5,7 +5,7 @@ cellHeight
 @short:
 	the height of the cell with day
 
-@type: number, string
+@type: number,string
 @example:
 
 

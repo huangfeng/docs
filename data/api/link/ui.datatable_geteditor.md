@@ -1,8 +1,8 @@
 @link: api/editability_geteditor.md
 
 @params:
-* row	string, number, object	row id
-* column	string, number	column id
+* row	id	row id
+* column	id	column id
 
 @example:
 //return last opened editor

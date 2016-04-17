@@ -8,7 +8,7 @@ parse
 	loads data to the component from an inline data source
 
 @params:
-- data		string, object		the data to add
+- data		string,object		the data to add
 - type		string		the data type: 'json' (default), 'xml', 'csv', 'jsarray'
 
 

@@ -2,8 +2,8 @@ $setValue
 =============
 
 
-@short: called each time when component need to set value in related html input
-	
+@short: called each time when component need to set value in related html input	
+@type: function
 
 @params:
 - value      string       new value for the input

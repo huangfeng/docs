@@ -4,7 +4,7 @@ onBeforeTabClose
 @short: fires before the tab is closed
 
 @params: 
-- id		string, number	tab ID
+- id		id	tab ID
 - e		event	event 	object
 
 @example: 

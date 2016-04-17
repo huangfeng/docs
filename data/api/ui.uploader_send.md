@@ -5,7 +5,7 @@ send
 	sends files from uploader body to server
 
 @params:
-- id	number, string, function	file ID or callback function
+- id	id,function	file ID or callback function
 - details	object	additional data
 
 

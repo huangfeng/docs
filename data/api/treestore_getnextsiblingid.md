@@ -5,10 +5,10 @@ getNextSiblingId
 	
 
 @params:
-- id  	id		ID of the node in question
+- id        id		ID of the node in question
 
 @returns:
-- id 	id		ID of the next sibling or false if there isn't any
+- id        id		ID of the next sibling or false if there isn't any
 
 @example:
 tree = new webix.ui({

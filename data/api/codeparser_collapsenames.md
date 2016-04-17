@@ -7,7 +7,7 @@ collapseNames
 
 @params:
 
-- obj     any     some complex object
+- obj     object     some complex object
 
 @returns: 
 

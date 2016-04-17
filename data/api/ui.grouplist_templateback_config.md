@@ -5,7 +5,7 @@ templateBack
 @short:
 	an html template that defines data that will be presented in group header in the expanded state
 
-@type: string, template
+@type: string,function
 @example:
 webix.ui({ 
     view:"grouplist", 

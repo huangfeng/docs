@@ -5,7 +5,7 @@ getMasterValue
 	
 
 @returns:
-- value		any		value of master control
+- value		string		value of master control
 	
 
 @example:

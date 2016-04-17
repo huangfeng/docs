@@ -7,7 +7,7 @@ showCalendar
 	makes the specified date displayed in the calendar
 
 @params:
-- date		string, object		a Date object or a string representing a date
+- date		string,object		a Date object or a string representing a date
 
 @example:
 webix.ui({

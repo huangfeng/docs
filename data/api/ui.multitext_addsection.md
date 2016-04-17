@@ -7,7 +7,7 @@ addSection
 @params:
 
 @returns:
-- id	string, number		id of the newly added field
+- id	id		id of the newly added field
 
 @example:
 

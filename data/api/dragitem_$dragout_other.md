@@ -3,6 +3,7 @@ $dragOut
 
 
 @short: method called when item moved out of possible drop landing during dnd
+@type: function
 	
 @params:
 - source     HTMLElement     DOM element on which dnd action started

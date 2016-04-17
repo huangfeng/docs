@@ -5,7 +5,7 @@ subview
 @short:
 	adds a subview configuration into datatable
 
-@type: 
+@type: UIConfig
 @example:
 webix.ui({
 	view:"datatable",

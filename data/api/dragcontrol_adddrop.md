@@ -6,7 +6,7 @@ addDrop
 	registers drop area
 
 @params:
-- node		id,HTMLElement		html node or ID
+- node		string,HTMLElement		html node or ID
 - ctrl		object		hash code of the drag control methods
 - master_mode		boolean		flag which can be used if node in question has multiple inner areas, some of them can be used in DND and some not
 

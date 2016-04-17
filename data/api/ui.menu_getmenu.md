@@ -5,7 +5,7 @@ getMenu
 @short: gets object of a menu/submenu where an item is located
 	
 @params:
-- id	string, number	id of a menu item
+- id	id	id of a menu item
 
 @returns:
 - menu 	object	object of menu (or submenu) where the item is located

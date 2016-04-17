@@ -3,6 +3,7 @@ $dragOut
 
 @short:
 	called when mouse was moved out drop area and defines marker behavior out of the drop area
+@type: function
 
 @params:
 - s		object		source html object

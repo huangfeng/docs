@@ -5,7 +5,7 @@ scroll
 @short:
 	enables or disables scroll for the datatable
 
-@type: boolean
+@type: boolean,string
 @example:
 
 webix.ui({
@@ -19,7 +19,6 @@ webix.ui({
 - xy	enables both scrolls
 - false	 disables both scrolls
 
-@type: boolean,string
 
 
 @template:	api_config

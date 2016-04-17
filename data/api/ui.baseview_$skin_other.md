@@ -4,6 +4,7 @@ $skin
 
 @short:
 	the method which will be called when skin is defined	
+@type: function
 
 @example:
 

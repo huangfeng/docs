@@ -7,7 +7,7 @@ define
 
 @params:
 - property		string		the property name or a hash of properties that need redefining
-- value		any		the new property value
+- value		mixed		the new property value
 
 
 

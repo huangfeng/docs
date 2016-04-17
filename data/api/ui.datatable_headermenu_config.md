@@ -4,7 +4,7 @@ headermenu
 @short: adds a headermenu to control column visibility
 	
 
-@type: boolean, object
+@type: boolean,object
 @example:
 
 //simple config

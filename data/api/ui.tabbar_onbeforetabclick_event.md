@@ -6,7 +6,7 @@ onBeforeTabClick
 	fires before a tab is clicked
 
 @params:
-- id		string, number		the id of the clicked tab
+- id		id		the id of the clicked tab
 
 @example: 
 	

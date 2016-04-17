@@ -7,7 +7,7 @@ find
 	gets the index of an element in the array
 
 @params:
-- data	     	any		       the element value
+- data	     	mixed		       the element value
 
 
 @returns:

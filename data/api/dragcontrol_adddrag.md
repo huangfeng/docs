@@ -7,7 +7,7 @@ addDrag
 	registers drag area
 
 @params:
-- node		id,HTMLElement		html node or ID
+- node		string,HTMLElement		html node or ID
 - ctrl		object		hash code of the drag control methods
 
 

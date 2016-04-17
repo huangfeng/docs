@@ -7,7 +7,7 @@ getValue
 @params:
 
 @returns:
-- value		string, number 		ID of a selected option	
+- value		string 		ID of a selected option	
 
 @example:
 //master is a control with a popup list of options

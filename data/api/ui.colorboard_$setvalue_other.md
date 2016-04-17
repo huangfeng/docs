@@ -4,6 +4,7 @@ $setValue
 @short:
 	highlights the color with the specified value in the colorboard
 
+@type: function
 
 @params: 
 

@@ -5,7 +5,7 @@ value
 @short:
 	defines values for the vertical axis
     
-@type: template
+@type: string,function
 @example:
 webix.ui({
 	view:"chart",

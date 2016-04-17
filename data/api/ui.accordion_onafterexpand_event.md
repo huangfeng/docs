@@ -6,7 +6,7 @@ onAfterExpand
 
 @params:
 
-- id	string, number	ID of an item that has just been expanded
+- id	id	ID of an item that has just been expanded
 @example: 
 	
 some.attachEvent("onAfterExpand", function(id){

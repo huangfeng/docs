@@ -6,7 +6,7 @@ insertAt
 	adds an element to a collection at the specific position
 
 @params:
-- data		any		the element to add
+- data		mixed		the element to add
 - pos		number		the element position in the array
 
 

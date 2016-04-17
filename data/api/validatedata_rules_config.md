@@ -5,7 +5,7 @@ rules
 @short: defines a set of rules for input field(s) of the form(htmlform)
 	
 
-@type: 
+@type: hash
 @example:
 webix.ui({
 	view:"form",

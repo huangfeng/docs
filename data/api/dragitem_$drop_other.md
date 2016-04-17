@@ -3,7 +3,7 @@ $drop
 
 
 @short: method called when item dragged and dropped on valid target
-	
+@type:function
 @params:
 - source    HTMLElement     DOM element on which dnd action started
 - target	HTMLElement     DOM element of possible drop landing

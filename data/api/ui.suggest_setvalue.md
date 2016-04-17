@@ -4,7 +4,7 @@ setValue
 @short: selects an item in the option list	
 
 @params:
-- value		string, number		ID of an option to select
+- value		id		ID of an option to select
 
 @example:
 //master is a control with a popup list of options

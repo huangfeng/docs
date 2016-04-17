@@ -11,7 +11,7 @@ getMark
 - mark_name		string		mark name
 
 @returns:
-- value		any		mark value
+- value		mixed		mark value
 	
 
 @example:

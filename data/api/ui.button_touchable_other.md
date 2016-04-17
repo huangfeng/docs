@@ -4,6 +4,7 @@ touchable
 
 @short:
 	flag, which force touch reaction on touch screen devices	
+@type: boolean
 
 @example:
 

@@ -5,7 +5,7 @@ isUndefined
 @short: checks whether the passed value is undefined
 	
 @params:
-- check		any	the value to check
+- check		mixed		the value to check
 
 @returns:
 - result	boolean	<i>true</i>, if the passed value is undefined

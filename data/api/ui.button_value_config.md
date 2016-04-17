@@ -5,7 +5,7 @@ value
 @short: sets the initial value for a control
 	
 
-@type: string, number
+@type: string
 @example:
 rows:[
 	{ view:"text", name:"country", label:"Country", value:"Belarus" },

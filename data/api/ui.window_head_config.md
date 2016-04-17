@@ -5,7 +5,7 @@ head
 @short:
 	sets the view header 
 
-@type: object, string
+@type: string,object
 @example:
 webix.ui({
 	view:"window",

@@ -7,7 +7,7 @@ setValue
 	sets a new value for the component
 
 @params:
-- date		string, object		a Date object or a string representing a date
+- date		string,object		a Date object or a string representing a date
 
 
 @example:
